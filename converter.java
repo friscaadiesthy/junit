@@ -53,4 +53,4 @@ public class converter
 		System.out.println("Suhu dalam Reamur : " + r + "\nHasil konversi ke Farenheit : " + f);
 		return f;
 	}
-}
+}# junit
